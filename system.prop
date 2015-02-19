@@ -16,4 +16,4 @@ ro.usb.bpteth_adb=0x2e2b
 
 # Device
 ro.product.device=falcon
-ro.product.model=falcon
+ro.product.model=Moto G
